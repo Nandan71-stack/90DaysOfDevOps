@@ -1,4 +1,10 @@
+Today’s goal is to build your Linux command confidence.
 
+You will create a cheat sheet of commands focused on:
+
+Process management
+File system
+Networking troubleshooting
 
 
 1. Process Management
